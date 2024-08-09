@@ -1,4 +1,4 @@
-<h2 align="left">Oii galera, prazer eu sou o Guilherme e sou um dev apaixonado por tecnologia, especializado em Java Spring Boot, Vue.js com JavaScript, PostgreSQL, AWS e Postman. Gosto de transformar ideias em soluções práticas, sempre com um código limpo e bem documentado.<br><br>Além das hard skills, sou fã de trabalho em equipe, comunicação clara e resolução de problemas. Adoro compartilhar conhecimento e me desafio constantemente a aprender e inovar.<br><br>Vamos criar algo incrível juntos?</h2>
+<h2 align="left">Oii galera, prazer eu sou o Guilherme e sou um dev apaixonado por tecnologia</h2>
 
 ###
 
