@@ -1,4 +1,4 @@
-<h2 align="left">Oii galera, prazer eu sou o Guilherme e sou um dev apaixonado por tecnologia</h2>
+<h2 align="left">Oii galera, prazer eu sou o Guilherme e sou um dev apaixonado por tecnologia e programação 🧑‍💻</h2>
 
 ###
 
