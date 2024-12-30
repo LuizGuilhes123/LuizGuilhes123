@@ -57,7 +57,7 @@ Seja bem-vindo ao meu perfil! Aqui você encontrará projetos, ideias e muita pa
 
 ## 📚 Sobre mim
 - 🔭 Atualmente estou trabalhando em projetos de backend com **Spring Boot** e explorando o mundo do **Cloud Computing**.
-- 🌱 Estou aprendendo mais sobre **DevOps**, **AWS** e **Design Patterns**.
+- 🌱 Estou aprendendo mais sobre **DevOps**, **AWS** e **CI/CD**.
 - 🎯 Meu objetivo: contribuir para projetos open source e me tornar um especialista em arquiteturas escaláveis.
 - ⚡ Fato curioso: Amo resolver desafios de lógica e sou um entusiasta de inteligência artificial.
 
