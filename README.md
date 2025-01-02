@@ -55,10 +55,6 @@ Seja bem-vindo ao meu perfil! Aqui você encontrará projetos, ideias e muita pa
 
 ---
 
-<img align="right" height="150" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" alt="Hello World Animation" />
-
----
-
 ## 📚 Sobre mim
 - 🔭 Atualmente estou trabalhando em projetos de backend com **Spring Boot** e explorando o mundo do **Cloud Computing**.
 - 🌱 Estou aprendendo mais sobre **DevOps**, **AWS** e **CI/CD**.
