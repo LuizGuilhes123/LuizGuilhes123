@@ -4,10 +4,10 @@ Seja bem-vindo ao meu perfil! Aqui você encontrará projetos, ideias e muita pa
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuizGuilhes123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizGuilhes123&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Linguagens mais usadas" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuizGuilhes123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&order=1" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizGuilhes123&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="Linguagens mais usadas" />
+</p>
 
 ---
 ## 👾 Minha Stack:
