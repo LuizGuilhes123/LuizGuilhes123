@@ -5,9 +5,9 @@ Seja bem-vindo ao meu perfil! Aqui você encontrará projetos, ideias e muita pa
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuizGuilhes123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=true" alt="Estatísticas do GitHub"/>
+  <img src="https://stats.shuxing.xyz/api?username=LuizGuilhes123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=true" alt="Estatísticas do GitHub"/>
   &nbsp; &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizGuilhes123&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" alt="Linguagens mais usadas"/>
+  <img src="https://stats.shuxing.xyz/api/top-langs?username=LuizGuilhes123&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" alt="Linguagens mais usadas"/>
 </div>
 
 ---
