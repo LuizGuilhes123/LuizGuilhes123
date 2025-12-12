@@ -10,7 +10,6 @@ Seja bem-vindo ao meu perfil! Aqui você encontrará projetos, ideias e muita pa
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luizguilhes123&layout=compact&theme=dracula&hide_border=true" />
 </div>
 
-
 ---
 ## 👾 Minha Stack:
 Estas são as tecnologias e ferramentas com as quais trabalho:
