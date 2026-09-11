@@ -7,13 +7,13 @@ Seja bem-vindo ao meu perfil! Aqui você encontrará projetos, ideias e muita pa
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=LuizGuilhes123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"
+    src="./profile/stats.svg"
     height="180"
     alt="GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGuilhes123&layout=compact&theme=dracula&hide_border=true"
+    src="./profile/top-langs.svg"
     height="180"
     alt="Top Languages"
   />
